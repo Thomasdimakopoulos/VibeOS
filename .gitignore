@@ -26,3 +26,5 @@ MORE_STUFF.md
 repomix-output.xml
 vibeos_root/games/doom1.wad
 convos/
+config.bat
+node_modules
